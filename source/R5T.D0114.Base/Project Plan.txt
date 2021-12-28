@@ -1,0 +1,3 @@
+R5T.D0114.Base - Service definitions for IServiceProviderStartup service.
+
+GOALS:
